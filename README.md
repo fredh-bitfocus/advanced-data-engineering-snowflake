@@ -2,7 +2,7 @@
 
 #### How to use this repo throughout the course:
 
-To successfully follow along with the instructor during the course, you'll need to make use of the code in this repo. To follow along, you can either:
+To  successfully follow along with the instructor during the course, you'll need to make use of the code in this repo. To follow along, you can either:
 
 * Keep the URL to this repo handy, so that you can easily find and use any code referenced by the instructor during the course
 
